@@ -1,5 +1,7 @@
 {
-    "token": "ODY0NjIzMzI3NzgzNDE5OTA0.GnZsMA.pUYkNtzCLAWHKO09rDN0qhyhl6D059SvRbCBP8",
+    "token": "ODY0NjIzMzI3NzgzNDE5OTA0.GbqWdE.MjYLzAww4w0Hjz6eMW249cjc5PbDk1jzSeBX0I",
     "clientId": "864623327783419904",
-    "guildId": "622391771959132160"
+    "guildId": "622391771959132160",
+    "defaultColor": "WHITE",
+    "errorColor": "RED"
 }
